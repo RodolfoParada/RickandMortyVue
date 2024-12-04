@@ -1,4 +1,5 @@
 # ricky-and-morty
+Este proyecto consume la API de Rick and Morty como endpoint. Fue desarrollado utilizando el framework Vue.js, e incluye tecnologías como Vuex para el manejo de estado, Bootstrap para el diseño y la implementación de filtros para los personajes.
 
 ## Project setup
 ```
