@@ -37,9 +37,15 @@ module.exports = defineConfig({
   },
 ```
 ## Paso 3
+### Crear carpeta .env.local y dentro crear el archivo .env y agregar lo siguiente.
 ```
-npm run lint
+VUE_APP_BASE_URL = "/”
 ```
+### Crear carpeta .env.production.local y dentro crear el archivo .env y agregar lo siguiente.
+```
+VUE_APP_BASE_URL = "/nombre-proyecto/”
+```
+
 ## Paso 4
 ```
 npm run lint
