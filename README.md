@@ -46,18 +46,23 @@ VUE_APP_BASE_URL = "/”
 VUE_APP_BASE_URL = "/nombre-proyecto/”
 ```
 
-## Paso 4
+## Paso 4 evisar el archivo .gitignore y comentar los siguientes archivos
 ```
-npm run lint
+#/dist
+#.env.local
+#.env.*.local
 ```
 
-## Paso 5
+## Paso 5 incorporar los siguientes comandos en el siguiente orden : 
 ```
-npm run lint
+npm run build
+```
+```
+npm run deploy
 ```
 ## Paso 6
 ```
-npm run lint
+luego revisar git-pages en github el proyecto
 ```
 
 
