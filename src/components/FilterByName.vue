@@ -1,7 +1,5 @@
 <template>
 
-
-
 <div class="container mt-4">
     <!-- Filtro de búsqueda -->
     <div class="row mb-4">
